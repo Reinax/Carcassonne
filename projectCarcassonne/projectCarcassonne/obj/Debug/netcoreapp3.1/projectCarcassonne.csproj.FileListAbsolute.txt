@@ -1,0 +1,13 @@
+B:\MobileDev\ProjectDev\Carcassonne\projectCarcassonne\projectCarcassonne\bin\Debug\netcoreapp3.1\projectCarcassonne.exe
+B:\MobileDev\ProjectDev\Carcassonne\projectCarcassonne\projectCarcassonne\bin\Debug\netcoreapp3.1\projectCarcassonne.deps.json
+B:\MobileDev\ProjectDev\Carcassonne\projectCarcassonne\projectCarcassonne\bin\Debug\netcoreapp3.1\projectCarcassonne.runtimeconfig.json
+B:\MobileDev\ProjectDev\Carcassonne\projectCarcassonne\projectCarcassonne\bin\Debug\netcoreapp3.1\projectCarcassonne.runtimeconfig.dev.json
+B:\MobileDev\ProjectDev\Carcassonne\projectCarcassonne\projectCarcassonne\bin\Debug\netcoreapp3.1\projectCarcassonne.dll
+B:\MobileDev\ProjectDev\Carcassonne\projectCarcassonne\projectCarcassonne\bin\Debug\netcoreapp3.1\projectCarcassonne.pdb
+B:\MobileDev\ProjectDev\Carcassonne\projectCarcassonne\projectCarcassonne\obj\Debug\netcoreapp3.1\projectCarcassonne.csprojAssemblyReference.cache
+B:\MobileDev\ProjectDev\Carcassonne\projectCarcassonne\projectCarcassonne\obj\Debug\netcoreapp3.1\projectCarcassonne.AssemblyInfoInputs.cache
+B:\MobileDev\ProjectDev\Carcassonne\projectCarcassonne\projectCarcassonne\obj\Debug\netcoreapp3.1\projectCarcassonne.AssemblyInfo.cs
+B:\MobileDev\ProjectDev\Carcassonne\projectCarcassonne\projectCarcassonne\obj\Debug\netcoreapp3.1\projectCarcassonne.csproj.CoreCompileInputs.cache
+B:\MobileDev\ProjectDev\Carcassonne\projectCarcassonne\projectCarcassonne\obj\Debug\netcoreapp3.1\projectCarcassonne.dll
+B:\MobileDev\ProjectDev\Carcassonne\projectCarcassonne\projectCarcassonne\obj\Debug\netcoreapp3.1\projectCarcassonne.pdb
+B:\MobileDev\ProjectDev\Carcassonne\projectCarcassonne\projectCarcassonne\obj\Debug\netcoreapp3.1\projectCarcassonne.genruntimeconfig.cache
